@@ -1,0 +1,7 @@
+model,mae,rmse,mape,cv_mae,model_family,interpretability,production_fit,selected_model
+Random Forest,11.42,24.14,1.42,31.22,Regression / ML Baseline,Medium,Strong nonlinear baseline,True
+XGBoost,19.56,31.44,2.4,19.56,Advanced ML,Medium,Best for pricing + demand drivers,False
+ARIMA,6211.51,6934.89,11.65,,Classical Time Series,Medium,Good time-series benchmark,False
+Linear Regression,71.27,102.91,12.19,77.35,Regression / ML Baseline,High,Good baseline,False
+Ridge Regression,71.29,103.02,12.2,77.32,Regression / ML Baseline,High,Good baseline,False
+Lasso Regression,71.31,103.28,12.22,77.29,Regression / ML Baseline,High,Good baseline,False

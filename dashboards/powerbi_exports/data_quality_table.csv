@@ -1,0 +1,9 @@
+check_name,issue_count,description
+total_rows,13510,Total number of rows in dataset
+duplicate_rows,134,Rows that are exact duplicates
+missing_final_price,136,Missing final price values
+missing_customer_segment,134,Missing customer segment values
+negative_volume,67,Demand volume cannot be negative
+negative_inventory,67,Inventory level cannot be negative
+price_outliers,134,Extreme high price values above 99th percentile
+invalid_revenue,13285,Revenue should approximately equal final_price * volume_tons
