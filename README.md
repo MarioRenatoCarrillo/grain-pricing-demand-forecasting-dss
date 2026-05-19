@@ -21,6 +21,10 @@ The system was designed to support key commercial and operational decisions such
 * Comparing forecasting model performance for operational deployment
 * Delivering business-ready outputs through Power BI and Streamlit dashboards
 
+## End-to-End Analytics Architecture
+
+![Architecture Diagram](reports/figures/architecture_pipeline.png)
+
 ---
 
 # Key Capabilities
